@@ -8,7 +8,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pdf</groupId>
-	<artifactId>JobPortalApplication</artifactId>
+	<artifactId>JobPortalApplicationTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JobPortalApplication</name>
 	<description>Demo project for Spring Boot</description>
